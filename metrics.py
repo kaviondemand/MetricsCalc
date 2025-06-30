@@ -24,7 +24,7 @@ def lbs_to_kg():
  print (  " Kilogram(s) " , kg2)
 
 
-while True :
+while True:
     print ( " \n ---  Converter ---" )
     print ( " 1. CM → Inches " )
     print ( " 2. Inches → CM" )
