@@ -1,8 +1,9 @@
 # MetricsCalc
-This is a simple Metrics Converter tool. It currently supports:
-- Converting centimeters (cm) to inches
-- Converting inches to centimeters
-- Converting kilograms (kg) to pounds (lbs)
-- Converting pounds (lbs) to kilograms
+A simple tool to convert between various metric and imperial units. This project is designed to help with quick conversions using Python.
 
-## Run 'py metrics.py' in a terminal to use the converter.
+## Features
+- Convert centimeters (cm) to inches
+- Convert inches to centimeters (cm)
+- Convert kilograms (kg) to pounds (lbs)
+- Convert pounds (lbs) to kilograms (kg)
+- Convert meters to feet (new feature!)
